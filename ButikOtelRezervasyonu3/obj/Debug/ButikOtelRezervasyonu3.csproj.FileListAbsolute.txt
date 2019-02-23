@@ -1,0 +1,14 @@
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.csprojAssemblyReference.cache
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.exe.config
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.exe
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.pdb
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.exe
+C:\Users\nukhe\source\repos\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.exe.config
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.pdb
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.csprojAssemblyReference.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.exe
+E:\Ayvansaray Universitesi\Benim Projelerim\ButikOtelRezervasyonu\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.pdb
